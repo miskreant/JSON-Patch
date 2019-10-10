@@ -3,7 +3,7 @@ JSON-Patch
 
 > A leaner and meaner implementation of JSON-Patch. Small footprint. High performance.
 
-[![Build Status](https://travis-ci.org/Starcounter-Jack/JSON-Patch.svg?branch=master)](https://travis-ci.org/Starcounter-Jack/JSON-Patch)
+[![Build Status](https://travis-ci.org/miskreant/JSON-Patch.svg?branch=master)](https://travis-ci.org/miskreant/JSON-Patch)
 
 With JSON-Patch, you can:
 - **apply** patches
